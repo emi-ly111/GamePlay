@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-de-exemplo",
-    "slug": "app-de-exemplo",
+    "name": "GamePlay",
+    "slug": "GamePlay",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
