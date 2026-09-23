@@ -44,7 +44,37 @@ export const styles = StyleSheet.create({
         fontWeight: 'bold',
         textAlign: 'center',
     },
+    subtitle: {
+        color: '#fff',
+        fontSize: 16,
+        textAlign: 'center',
+        marginTop: 20,
+        marginLeft: 10,
+        marginRight: 10
+    },
     containerTitle: {
-        marginBottom: 40
+        position: 'absolute',
+        marginTop: 100
+    },
+    button: {
+        backgroundColor: '#E51C44',
+        width: 300,
+        height: 50,
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 10,
+        borderRadius: 10,
+        position: 'absolute',
+        marginTop: 420,
+        justifyContent: 'center'
+    },
+    discordLogo: {
+        marginLeft: 20
+    },
+    buttonText: {
+        alignSelf: 'center',
+        color: '#FFF',
+        fontWeight: 'bold',
+        fontSize: 15
     }
 });
